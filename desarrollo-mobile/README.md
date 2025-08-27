@@ -1,0 +1,1 @@
+# primera version para futuros readme paras proyecto de desarrollo mobile
